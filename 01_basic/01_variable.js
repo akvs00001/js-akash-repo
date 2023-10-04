@@ -6,5 +6,6 @@ accountCity = "Bhagalpur"
 accountEmail = "ttheakashsaha@gmail.com"
 accountPassword = "2345"
 accountCity = "Ahmedabad"
-console.table([accountId, accountEmail, accountPassword, accountcity]);
+
+console.table([accountId, accountEmail, accountPassword, accountcity])
 
