@@ -9,5 +9,5 @@ accountPassword = "2345"
 accountCity = "Ahmedabad"
 
 
-// console.log(accountId);// for single  output at 1 time
+console.log(accountId);// for single  output at 1 time
 console.table([accountId,accountEmail,accountPassword,accountCity]);// table for multipal output at same time
