@@ -118,10 +118,11 @@ console.log(booleanIsLoggedIn2)             //  o/p-- false
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(typeof stringNumber)       // string but lookwise number 
+console.log(typeof stringNumber)       //  converted in string but lookwise number 
 console.log(stringNumber)             //  o/p-- 33
 
 
+// ********************************************* Operations *******************************************************
 
 
 
