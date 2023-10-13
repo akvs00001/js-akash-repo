@@ -3,8 +3,8 @@
 //let score = 33
 let score = "33"
 
-console.log(typeof (score));
-console.log(score)          // o/p 33 but that is string
+console.log(typeof (score)); // o/p- string
+console.log(score)          // o/p 33 ,but that is string
 // console.log(typeof score);
 
 let valueInNumber = Number(score)
@@ -73,6 +73,7 @@ console.log(valueInNumber5);      //  O/P  - NaN
     true     => 1
     false    => 0
     "Akash"  => NaN
+    null     => 0
  undefined   => NaN
 
 
